@@ -1,0 +1,49 @@
+#icon {
+  background-color: white;
+  height: 50%px;
+  width: 500px;
+}
+
+img {
+  width: 20%;
+  float: left;
+  margin: 0;
+}
+
+#search {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: blue;
+}
+#search:hover {
+  background-color: purple;
+}
+.jumbotron {
+  background-color: white;
+  color: darkgray;
+}
+
+h1 {
+  position: relative;
+  right: 12%;
+}
+
+/* targets all h2 */
+
+h2 {
+  font-family: Tahoma, Geneva, sans-serif;
+  color: blue;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+.brightness {
+  -webkit-filter: brightness(1.50);
+}
+
+#output {
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 20px;
+}
